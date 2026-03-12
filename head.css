@@ -1,4 +1,15 @@
 body {
-    background-color: #414141;
-    color: tomato;
+    background-color: #7feb91;
+    color: rgb(230, 48, 48);
+}
+
+.crumbs {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+.crumb {
+    display: inline;
 }
